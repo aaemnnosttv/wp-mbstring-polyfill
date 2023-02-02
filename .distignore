@@ -1,0 +1,7 @@
+.distignore
+.git
+.idea
+composer.*
+vendor/bin/
+vendor/composer/
+vendor/autoload.php

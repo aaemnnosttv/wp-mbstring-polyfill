@@ -1,0 +1,11 @@
+{
+    "name": "test/test",
+    "config": {
+        "platform": {
+            "php": "5.6.0"
+        }
+    },
+    "require": {
+        "symfony/polyfill-mbstring": "^1.19"
+    }
+}
